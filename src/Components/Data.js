@@ -11,24 +11,24 @@ const Data = [{
     author: "Napoleon Hill"
 },
 {
-    quote:"You can never cross the ocean until you have the courage to lose sight of the shore.",
-    author:"Christopher Columbus"
+    quote: "You can never cross the ocean until you have the courage to lose sight of the shore.",
+    author: "Christopher Columbus"
 },
 {
-    quote:"You miss 100% of the shots you don’t take.",
-    author:"Wayne Gretzky"
+    quote: "You miss 100% of the shots you don’t take.",
+    author: "Wayne Gretzky"
 },
 {
-    quote:"Eighty percent of success is showing up.",
-    author:"Woody Allen"
+    quote: "Eighty percent of success is showing up.",
+    author: "Woody Allen"
 },
 {
-    quote:"Whatever the mind of man can conceive and believe, it can achieve.",
-    author:"Napoleon Hill"
+    quote: "Whatever the mind of man can conceive and believe, it can achieve.",
+    author: "Napoleon Hill"
 },
 {
-    quote:"Winning isn’t everything, but wanting to win is.",
-    author:"Vince Lombardi"
+    quote: "Winning isn’t everything, but wanting to win is.",
+    author: "Vince Lombardi"
 }
 ]
 export default Data
